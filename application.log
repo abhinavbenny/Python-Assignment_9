@@ -1,0 +1,22 @@
+2026-11-25 10:47:13,321 - INFO - Application started
+2026-11-25 10:47:13,321 - DEBUG - Starting order processing
+2026-11-25 10:47:13,321 - INFO - Order received successfully
+2026-11-25 10:47:13,321 - DEBUG - Discount calculated: 100.00
+2026-11-25 10:47:13,321 - INFO - GST calculated: 162.00
+2026-11-25 10:47:13,321 - INFO - Final order total: 1062.00
+2026-11-25 10:47:13,321 - DEBUG - Starting order processing
+2026-11-25 10:47:13,321 - ERROR - Order processing failed: Price cannot be negative
+2026-11-25 10:47:13,321 - DEBUG - Starting order processing
+2026-11-25 10:47:13,321 - ERROR - Order processing failed: Invalid discount percentage
+2026-11-25 10:47:13,321 - WARNING - Application demonstration completed
+2026-11-25 10:50:09,021 - INFO - Application started
+2026-11-25 10:50:09,021 - DEBUG - Starting order processing
+2026-11-25 10:50:09,021 - INFO - Order received successfully
+2026-11-25 10:50:09,021 - DEBUG - Discount calculated: 100.00
+2026-11-25 10:50:09,021 - INFO - GST calculated: 162.00
+2026-11-25 10:50:09,021 - INFO - Final order total: 1062.00
+2026-11-25 10:50:09,021 - DEBUG - Starting order processing
+2026-11-25 10:50:09,021 - ERROR - Order processing failed: Price cannot be negative
+2026-11-25 10:50:09,021 - DEBUG - Starting order processing
+2026-11-25 10:50:09,021 - ERROR - Order processing failed: Invalid discount percentage
+2026-11-25 10:50:09,021 - WARNING - Application demonstration completed
